@@ -1,6 +1,6 @@
 # Student Performance Indicator
 
-AWS deployment using Elastic Beanstalk and Codepipeline (Only Continuos Delivery)
+AWS deployment using Elastic Beanstalk and Codepipeline (Only Continuous Delivery)
 
 * Create Elastic Beanstalk instance
 * Create a Codepipeline and connect it to the repository
